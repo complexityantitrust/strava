@@ -32,18 +32,19 @@ def get_year_distance(access_token):
             headers={"Authorization": f"Bearer {access_token}"},
             params={"after": after, "per_page": 200, "page": page},
         )
-activities = r.json()
 
-# If Strava returns an error object instead of a list
-if isinstance(activities, dict):
-    raise RuntimeError(f"Strava API error: {activities}")
+        activities = r.json()
 
-if not activities:
-    break
+        # If Strava returns an error object instead of a list
+        if isinstance(activities, dict):
+            raise RuntimeError(f"Strava API error: {activities}")
 
-for a in activities:
-    if "distance" in a:
-        total_meters += a["distance"]
+        if not activities:
+            break
+
+        for a in activities:
+            if "distance" in a:
+                total_meters += a["distance"]
 
         page += 1
 

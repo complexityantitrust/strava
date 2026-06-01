@@ -28,7 +28,7 @@ def get_year_distance(access_token):
 
     while True:
         r = requests.get(
-            "https://www.api-v3.strava.com/athlete/activities",
+            "https://www.strava.com/api/v3/athlete/activities",
             headers={"Authorization": f"Bearer {access_token}"},
             params={"after": after, "per_page": 200, "page": page},
         )

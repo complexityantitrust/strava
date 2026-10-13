@@ -1,0 +1,146 @@
+{
+ "title": "Network Law Review",
+ "url": "https://www.networklawreview.org/",
+ "articles": [
+  {
+   "id": 16729,
+   "title": "The Future-Proof Fantasy of AI Regulation",
+   "url": "https://www.networklawreview.org/schrepel-future-proof-ai/",
+   "date": "2025-10-01",
+   "abstract": "The Network Law Review is pleased to present a special issue entitled “ The Law & Technology & Economics of AI .” This issue brings together multiple disciplines around a central question: What kind of governance does AI demand? A workshop with all the contributors took place on May 22–23, 2025, in Hong Kong, hosted by Adrian Kuenzler (HKU Law School), Thibault Schrepel (Vrije Universiteit Amsterdam), and Volker Stocker (Weizenbaum Institute). They also serve as the editors. ** Abstract The EU’s quest for “future-proof” AI regulation is a fantasy. AI evolves through emergent properties that de"
+  },
+  {
+   "id": 16356,
+   "title": "Computational Antitrust: Evidence From 25 Antitrust Agencies",
+   "url": "https://www.networklawreview.org/computational-antitrust-evidence/",
+   "date": "2025-06-30",
+   "abstract": "Abstract. This paper explores patterns from the Stanford Computational Antitrust project’s fourth annual report , which includes contributions from 25 agencies worldwide. The findings reveal that most agencies are converging around similar technological solutions, particularly large language models and machine learning tools, and face common challenges related to explainability, data security, and organizational adaptation. The analysis suggests that the post-2020 period has witnessed an unprecedented acceleration in digital adoption which is fundamentally reshaping how antitrust agencies dete"
+  },
+  {
+   "id": 15995,
+   "title": "The Vestager Years: A Data-Driven Assessment",
+   "url": "https://www.networklawreview.org/vestager-two-mandates/",
+   "date": "2025-02-25",
+   "abstract": "Teresa Ribera assumed the role of EU Commissioner for Competition just a couple of weeks ago on December 1, 2024. As a new chapter in EU competition law begins, Janneke Parrish and I present an empirical analysis of Margrethe Vestager’s two mandates.[1] Our objectives are twofold: (1) to provide access to data for the (newly) appointed DG Comp leadership, researchers, and other competition agencies interested in assessing the successes and setbacks of the past eight years before the CJEU; and (2) to offer an initial analysis of the key patterns emerging from our dataset. 1. Keeping score of Ma"
+  },
+  {
+   "id": 15858,
+   "title": "A Framework for Assessing the Competitiveness of AI Partnerships",
+   "url": "https://www.networklawreview.org/ai-partnerships/",
+   "date": "2025-01-13",
+   "abstract": "The year 2024 marked a pivotal moment as antitrust agencies accelerated their efforts in generative AI ( see our database ). AI partnerships have drawn significant attention in the space, with the CMA, DOJ, European Commission, and other agencies launching investigations and issuing their first decisions. These agencies have been addressing AI partnerships on a case-by-case basis—a pragmatic approach for now. But legal certainty is critical in such a rapidly evolving ecosystem. This is why Sandy Pentland and I developed a framework for evaluating these partnerships. We present it in our now-pu"
+  },
+  {
+   "id": 15589,
+   "title": "In Praise of World Controllers: For A World Without Change",
+   "url": "https://www.networklawreview.org/world-controllers/",
+   "date": "2024-08-27",
+   "abstract": "Context : In Aldous Huxley’s Brave New World , the World State is governed by ten men known as World Controllers. They oversee a society where stability, order, and happiness are preserved at the expense of individuality, freedom, and genuine human emotion.​ The following piece is satirical and should be interpreted accordingly. It has been written in the spirit of Brave New World .​ *** World Controllers enable stability. Without them, we would live in a very different world—and who would want that? Society would be exposed to much progress that we, regular citizens, non-experts, laypeople… g"
+  },
+  {
+   "id": 15350,
+   "title": "The Apple Music Streaming Case: The Good, The Bad, and The Ugly",
+   "url": "https://www.networklawreview.org/apple-music-streaming/",
+   "date": "2024-03-27",
+   "abstract": "On March 4, 2024, the European Commission fined Apple €1.84 billion “over abusive App store rules for music streaming providers”. 1 European Commission, “Commission Fines Apple.” In particular, the Commission was concerned about the anti-steering provisions that Apple imposed on these providers. Although the full decision has not yet been published (I am told it could be a matter of months), the public information underpinning this decision is already interesting on several levels. In the following, I explore the good ( 1. ), the bad ( 2. ), and the ugly ( 3. ) of the “App Store Practices (mus"
+  },
+  {
+   "id": 15192,
+   "title": "Toward A Working Theory of Ecosystems in Antitrust Law: The Role of Complexity Science",
+   "url": "https://www.networklawreview.org/schrepel-ecosystems-ai/",
+   "date": "2024-03-07",
+   "abstract": "The Network Law Review is pleased to present a symposium entitled “ Dynamics of Generative AI ,” where lawyers, economists, computer scientists, and social scientists gather their knowledge around a central question: what will define the future of AI ecosystems? To bring all this expertise together, a conference co-hosted by the Weizenbaum Institute and the Amsterdam Law & Technology Institute will be held on March 22, 2024. Be sure to register in order to receive the recording. This contribution is signed by Thibault Schrepel , Associate Professor at the Vrije Universiteit Amsterdam, and Facu"
+  },
+  {
+   "id": 13992,
+   "title": "The Fight for Open Source in Generative AI",
+   "url": "https://www.networklawreview.org/open-source-generative-ai/",
+   "date": "2024-01-15",
+   "abstract": "The fight for permissionless innovation is a timely and recurring theme. Today, it translates into the fight for open source in generative AI ecosystems. After addressing the technological (what open source is) and economic (how open source creates competitive pressure) aspects of the issue, I’ll offer my take on what lawyers should–and, in my view, shouldn’t–do about open source in generative AI. 1. The technology Open source (“OS”) technologies play a critical, often invisible, role in today’s digital ecosystem. MySQL and PostgreSQL are popular open-source databases used to manage and store "
+  },
+  {
+   "id": 13342,
+   "title": "The Expected Impact of “Great Power Competition” on Antitrust Policy",
+   "url": "https://www.networklawreview.org/great-power-competition/",
+   "date": "2023-05-17",
+   "abstract": "Yogi Berra once said, “[i]t’s tough to make predictions, especially about the future.” He also said, “[y]ou can observe a lot by watching.” Observing the dynamics of current geopolitics, I predict that Great Power Competition (“GPC”) is about to redefine antitrust policy. Conceptually, Great Power Competition refers to the rivalry and strategic competition among the world’s most powerful nations (“great powers”) for global influence, resources, and dominance. These powers typically include the United States, Russia, China, and the European Union. In practice, Great Power Competition consists o"
+  },
+  {
+   "id": 13118,
+   "title": "A “Proof of Vigilance” for Antitrust Constitutional Moment",
+   "url": "https://www.networklawreview.org/antitrust-proof-of-vigilance/",
+   "date": "2023-03-27",
+   "abstract": "This short contribution seeks to propose the implementation of a “Proof of Vigilance” to meet the challenges of antitrust constitutional moment. Hypothesis This short paper is based on a simple hypothesis: the face of antitrust is changing to an extent that will have a lasting impact on the future of the field. Academics, policymakers, enforcers, and practitioners are debating the extent to which antitrust should address and protect sustainability, industrial sovereignty, privacy, labor rights, anti-racism, democracy, media plurality, small business, LGBTQ+ rights, etc. New “constitutional” ru"
+  },
+  {
+   "id": 13043,
+   "title": "Competition Is One Prompt Away",
+   "url": "https://www.networklawreview.org/bing-chatgpt/",
+   "date": "2023-02-17",
+   "abstract": "Counter-positioning is a business strategy in which a company positions itself in a way that its competitors are unwilling to replicate to avoid cannibalization . A well-known example of counter-positioning is Netflix’s policy not to charge late fees. In 2000, Blockbuster was earning a large portion of its revenue ( $800 million ) from late fees. When Netflix entered the market, the company began shipping DVDs to customers’ homes. Customers could pay for up to three DVDs at a time, and if they didn’t return them, Netflix simply wouldn’t send the next one on the list. This strategy caused Block"
+  },
+  {
+   "id": 12461,
+   "title": "Social Media vs. Social Network: Implications For Antitrust Law",
+   "url": "https://www.networklawreview.org/social-media-social-network/",
+   "date": "2022-12-12",
+   "abstract": "The recently published Digital Markets Act (Regulation 2022/1925) applies to gatekeepers providing a “core platform service.” “[O]nline social networking services” are listed as one of these services (article 2); social media services are not. Chances are the Commission considers them to be the same thing—at least for the purpose of this regulation—but they are not. The difference between social media and social networks Social media and social networks are two different species. Social media are online services centered around content. Users follow (mostly) people they do not know personally "
+  },
+  {
+   "id": 12476,
+   "title": "The Not-So-Pathetic Dot Theory",
+   "url": "https://www.networklawreview.org/not-so-pathetic-dot-theory/",
+   "date": "2022-11-23",
+   "abstract": "Is the dot really that pathetic? The Pathetic Dot Theory Lawrence Lessig famously introduced the Pathetic Dot Theory in 1999; I quote: There are many ways to think about “regulation.” I want to think about it from the perspective of someone who is regulated, or, what is different, constrained. That someone regulated is represented by this (pathetic) dot—a creature (you or me) subject to different regulations that might have the effect of constraining (or as we’ll see, enabling) the dot’s behavior. (…) [F]our constraints regulate this pathetic dot—the law, social norms, the market, and architec"
+  },
+  {
+   "id": 12337,
+   "title": "The Effect of Venture Funding on Killer Acquisitions",
+   "url": "https://www.networklawreview.org/killer-acquisitions-venture/",
+   "date": "2022-11-07",
+   "abstract": "The subject of killer acquisitions is capturing the ever-increasing attention of antitrust scholars and agencies. Several reasons explain this trend. One, tech giants are generating gigantic profits that allow them to buy startups without feeling the burn. Two, leaked emails show that big tech CEOs and top executives actively seek to acquire startups early, in order to avoid competing with them. And three, the acquisition of startups often falls below merger control thresholds—as startups may have little to no turnover—which makes the process easy. But how frequent are killer acquisitions in p"
+  },
+  {
+   "id": 8109,
+   "title": "“How should antitrust agencies approach AI?” (an article written by a very special guest)",
+   "url": "https://www.networklawreview.org/antitrust-ai/",
+   "date": "2021-11-29",
+   "abstract": "AI is a rapidly evolving technology that will have an increasing, and possibly overwhelming, impact on consumers, markets, and the economy. Antitrust regulators should monitor AI’s impact on markets and consider whether, and how, to take action to protect consumers and competition. For example, the AI-based systems of self-driving cars, which are now being tested on public roads, could eventually provide consumers with significant benefits, such as saving lives and reducing traffic. But these systems also have the potential to raise significant regulatory challenges, for example by eliminating"
+  },
+  {
+   "id": 7462,
+   "title": "A concrete proposal to improve the DMA",
+   "url": "https://www.networklawreview.org/proposal-to-improve-the-dma/",
+   "date": "2021-05-25",
+   "abstract": "A few weeks ago, Nicolas Petit kindly invited me to discuss the Digital Markets Act (“DMA”) at the European University Institute. I had prepared one slide for my presentation ( above ). I thought I would develop my thinking further in a post. Here goes. The DMA appears mainly concerned with the redistribution of wealth. It takes existing digital infrastructures as set, and organizes the market on that basis. This static approach is typical of neo-classical economics. With that backdrop in mind, I started to think about how the DMA rules might indirectly impact the formation of wealth—the emerg"
+  },
+  {
+   "id": 7404,
+   "title": "Digital Markets Act: a conservative piece of regulation",
+   "url": "https://www.networklawreview.org/digital-markets-act-is-conservative/",
+   "date": "2021-05-20",
+   "abstract": "The Digital Markets Act (“DMA”) is a complex piece of regulation. It includes some great ideas (as tackling predatory innovation ) while being surprisingly conservative (defined as “​the wish to resist great or sudden change” by the Oxford Dictionary). Chapter III intends to “set out the practices of gatekeepers that limit contestability and that are unfair” (p. 13), but one may question whether several obligations it contains won’t, in fact, freeze the market and help existing dominant positions. More specifically, the DMA will prevent gatekeepers from leveraging their (market) power in sever"
+  },
+  {
+   "id": 7313,
+   "title": "Why “future proof” regulation is a bad idea",
+   "url": "https://www.networklawreview.org/future-proof-regulation/",
+   "date": "2021-03-22",
+   "abstract": "One day, we will be in a position to develop evolutive regulation . The law will modify on “its own” using different machine learning systems adapting to their environment. “Future-proof” regulation will then become not only possible but also very handy. In the meantime, it is… not a great idea. At all. Let me explain. Our world evolves constantly. Complexity science has been introduced in the late sixties to grasp how agents’ interaction shapes its environment and vice versa. Although some groundbreaking work has been done in the field, we are far, very far from being in a position to predict"
+  },
+  {
+   "id": 7215,
+   "title": "“Control = liability”: exploring Section 230, the DSA, Big Tech, Wikipedia and Blockchains",
+   "url": "https://www.networklawreview.org/control-equals-liability/",
+   "date": "2021-03-15",
+   "abstract": "Control equals liability. Anyone who controls an area, product, or service—whether physical or digital—is responsible for what happens there (or with it). There are some exceptions to this rule, but the principle remains. For instance, the manager of a bar is liable if a customer trips over a case of wine. Similarly, the manager of a website is responsible if all users’ passwords are hacked because he stored them in a Word document. In response, many are trying to escape liability by eliminating all forms of control. But what does it mean? How can one not be in control? Do technical and regula"
+  },
+  {
+   "id": 6110,
+   "title": "Google, Facebook, and Amazon are no platforms",
+   "url": "https://www.networklawreview.org/not-platforms/",
+   "date": "2020-07-27",
+   "abstract": "EDIT: a more academic version of this article is now available at the Oxford Journal of European Competition Law & Practice: link . *** It’s been a while since I wanted to write about Ben Thompson’s aggregation theory because it has significant implications for antitrust law. Today is the day I’m finally doing it. Yay. 1- Platforms vs. aggregators Before introducing the aggregation theory, I first need to explain why all tech giants are not platforms. According to the Historical Larousse dictionary, the term platform first appears in the French language in 1434. It is used to refer to a “ hori"
+  }
+ ]
+}

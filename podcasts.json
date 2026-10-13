@@ -1,0 +1,470 @@
+{
+ "scaling": {
+  "title": "Scaling Theory",
+  "url": "https://podcasters.spotify.com/pod/show/scalingtheory",
+  "episodes": [
+   {
+    "title": "Xavier Gabaix on The Shape of Big Things",
+    "url": "https://podcasters.spotify.com/pod/show/scalingtheory/episodes/Xavier-Gabaix-on-The-Shape-of-Big-Things-e3pcnpd",
+    "date": "2026-09-28",
+    "duration": "01:04:14"
+   },
+   {
+    "title": "John H. Cochrane on Empty Skies",
+    "url": "https://podcasters.spotify.com/pod/show/scalingtheory/episodes/John-H--Cochrane-on-Empty-Skies-e3o3f2l",
+    "date": "2026-08-31",
+    "duration": "00:50:53"
+   },
+   {
+    "title": "Peter Howitt on Creative Destruction in the Age of AI",
+    "url": "https://podcasters.spotify.com/pod/show/scalingtheory/episodes/Peter-Howitt-on-Creative-Destruction-in-the-Age-of-AI-e3mirqp",
+    "date": "2026-07-27",
+    "duration": "00:54:46"
+   },
+   {
+    "title": "Steven Pinker on Common Knowledge, From Eye Contact to the Super Bowl",
+    "url": "https://podcasters.spotify.com/pod/show/scalingtheory/episodes/Steven-Pinker-on-Common-Knowledge--From-Eye-Contact-to-the-Super-Bowl-e3lcs7m",
+    "date": "2026-06-29",
+    "duration": "00:33:24"
+   },
+   {
+    "title": "#30 – Matthew O. Jackson on How Networks Quietly Shape What You Believe",
+    "url": "https://podcasters.spotify.com/pod/show/scalingtheory/episodes/30--Matthew-O--Jackson-on-How-Networks-Quietly-Shape-What-You-Believe-e3iroul",
+    "date": "2026-05-06",
+    "duration": "00:47:38"
+   },
+   {
+    "title": "#29 – Albert-Laszlo Barabasi: The Hidden Order of Networks",
+    "url": "https://podcasters.spotify.com/pod/show/scalingtheory/episodes/29--Albert-Laszlo-Barabasi-The-Hidden-Order-of-Networks-e3hpiv3",
+    "date": "2026-04-13",
+    "duration": "00:51:19"
+   },
+   {
+    "title": "#28 – Scott Page: Why Diversity Beats Genius",
+    "url": "https://podcasters.spotify.com/pod/show/scalingtheory/episodes/28--Scott-Page-Why-Diversity-Beats-Genius-e3gko7i",
+    "date": "2026-03-19",
+    "duration": "01:10:01"
+   },
+   {
+    "title": "#27 – Cass Sunstein: On Scaling Liberalism",
+    "url": "https://podcasters.spotify.com/pod/show/scalingtheory/episodes/27--Cass-Sunstein-On-Scaling-Liberalism-e3dh8uq",
+    "date": "2026-01-13",
+    "duration": "00:50:34"
+   },
+   {
+    "title": "#26 – W. Brian Arthur: On Economies, Santa Fe, and a Life in Ideas",
+    "url": "https://podcasters.spotify.com/pod/show/scalingtheory/episodes/26--W--Brian-Arthur-On-Economies--Santa-Fe--and-a-Life-in-Ideas-e3bu6ol",
+    "date": "2025-12-15",
+    "duration": "00:58:24"
+   },
+   {
+    "title": "#25 – Cristina Bicchieri: The Scaling of Norms",
+    "url": "https://podcasters.spotify.com/pod/show/scalingtheory/episodes/25--Cristina-Bicchieri-The-Scaling-of-Norms-e3b4g4o",
+    "date": "2025-11-18",
+    "duration": "00:52:16"
+   },
+   {
+    "title": "#24 – Robin Hanson: The Scaling of Futarchy",
+    "url": "https://podcasters.spotify.com/pod/show/scalingtheory/episodes/24--Robin-Hanson-The-Scaling-of-Futarchy-e39u9p9",
+    "date": "2025-10-23",
+    "duration": "00:44:41"
+   },
+   {
+    "title": "#23 – Thibault Schrepel: Adaptive Regulation",
+    "url": "https://podcasters.spotify.com/pod/show/scalingtheory/episodes/23--Thibault-Schrepel-Adaptive-Regulation-e38ldhm",
+    "date": "2025-09-29",
+    "duration": "00:39:49"
+   },
+   {
+    "title": "#22 – Vint Cerf: How Internet Scaled",
+    "url": "https://podcasters.spotify.com/pod/show/scalingtheory/episodes/22--Vint-Cerf-How-Internet-Scaled-e37i15q",
+    "date": "2025-09-01",
+    "duration": "00:50:33"
+   },
+   {
+    "title": "#21 – Melanie Moses: From Cells to Algorithms",
+    "url": "https://podcasters.spotify.com/pod/show/scalingtheory/episodes/21--Melanie-Moses-From-Cells-to-Algorithms-e365966",
+    "date": "2025-07-29",
+    "duration": "00:50:31"
+   },
+   {
+    "title": "#20 – Melanie Mitchell: The Science of Artificial Thinking",
+    "url": "https://podcasters.spotify.com/pod/show/scalingtheory/episodes/20--Melanie-Mitchell-The-Science-of-Artificial-Thinking-e357068",
+    "date": "2025-07-07",
+    "duration": "00:41:43"
+   },
+   {
+    "title": "#19 – Paul Seabright: How to Scale a Religion",
+    "url": "https://podcasters.spotify.com/pod/show/scalingtheory/episodes/19--Paul-Seabright-How-to-Scale-a-Religion-e33g8tj",
+    "date": "2025-05-29",
+    "duration": "01:15:39"
+   },
+   {
+    "title": "#18 – James Evans: Science in the Age of AI",
+    "url": "https://podcasters.spotify.com/pod/show/scalingtheory/episodes/18--James-Evans-Science-in-the-Age-of-AI-e32f5g2",
+    "date": "2025-05-07",
+    "duration": "00:40:56"
+   },
+   {
+    "title": "#17 – Eric von Hippel: Freeing Innovation",
+    "url": "https://podcasters.spotify.com/pod/show/scalingtheory/episodes/17--Eric-von-Hippel-Freeing-Innovation-e30ickp",
+    "date": "2025-03-24",
+    "duration": "00:36:21"
+   },
+   {
+    "title": "#16 – David Krakauer: Scaling Intelligence",
+    "url": "https://podcasters.spotify.com/pod/show/scalingtheory/episodes/16--David-Krakauer-Scaling-Intelligence-e2vd90q",
+    "date": "2025-02-27",
+    "duration": "00:51:57"
+   },
+   {
+    "title": "#15 – Larry Lessig: Code, Law, and Business Models in the Age of AI",
+    "url": "https://podcasters.spotify.com/pod/show/scalingtheory/episodes/15--Larry-Lessig-Code--Law--and-Business-Models-in-the-Age-of-AI-e2uacnp",
+    "date": "2025-02-03",
+    "duration": "00:46:59"
+   },
+   {
+    "title": "#14 – Eric Beinhocker: “New Economics” Is Coming For You",
+    "url": "https://podcasters.spotify.com/pod/show/scalingtheory/episodes/14--Eric-Beinhocker-New-Economics-Is-Coming-For-You-e2tbhnb",
+    "date": "2025-01-13",
+    "duration": "00:47:05"
+   },
+   {
+    "title": "#13 – Kevin Kelly: How Technology Evolves, And What To Do About It",
+    "url": "https://podcasters.spotify.com/pod/show/scalingtheory/episodes/13--Kevin-Kelly-How-Technology-Evolves--And-What-To-Do-About-It-e2sg41t",
+    "date": "2024-12-19",
+    "duration": "00:35:14"
+   },
+   {
+    "title": "#12 – Rory Linkletter: Scaling Up to the Olympics",
+    "url": "https://podcasters.spotify.com/pod/show/scalingtheory/episodes/12--Rory-Linkletter-Scaling-Up-to-the-Olympics-e2rhalv",
+    "date": "2024-11-28",
+    "duration": "00:48:25"
+   },
+   {
+    "title": "#11 – Stefan Thurner: The Scaling of Everything",
+    "url": "https://podcasters.spotify.com/pod/show/scalingtheory/episodes/11--Stefan-Thurner-The-Scaling-of-Everything-e2qm24v",
+    "date": "2024-11-08",
+    "duration": "00:34:15"
+   },
+   {
+    "title": "#10 – Allison Stanger: Political Science Behind Large Tech Companies",
+    "url": "https://podcasters.spotify.com/pod/show/scalingtheory/episodes/10--Allison-Stanger-Political-Science-Behind-Large-Tech-Companies-e2orna8",
+    "date": "2024-09-26",
+    "duration": "00:49:29"
+   },
+   {
+    "title": "#9 – Arvind Narayanan: Myths and Policies in Scaling AI",
+    "url": "https://podcasters.spotify.com/pod/show/scalingtheory/episodes/9--Arvind-Narayanan-Myths-and-Policies-in-Scaling-AI-e2nh6mu",
+    "date": "2024-08-26",
+    "duration": "00:48:54"
+   },
+   {
+    "title": "#8 – Sara Hooker: Big AI, The Compute Frenzy, and Grumpy Models",
+    "url": "https://podcasters.spotify.com/pod/show/scalingtheory/episodes/8--Sara-Hooker-Big-AI--The-Compute-Frenzy--and-Grumpy-Models-e2mmqhq",
+    "date": "2024-08-05",
+    "duration": "00:55:14"
+   },
+   {
+    "title": "#7 – Michael Mauboussin: The Fascinating World of Increasing Returns",
+    "url": "https://podcasters.spotify.com/pod/show/scalingtheory/episodes/7--Michael-Mauboussin-The-Fascinating-World-of-Increasing-Returns-e2m1nc0",
+    "date": "2024-07-15",
+    "duration": "00:47:11"
+   },
+   {
+    "title": "#6 – Glen Weyl: Scaling Plurality",
+    "url": "https://podcasters.spotify.com/pod/show/scalingtheory/episodes/6--Glen-Weyl-Scaling-Plurality-e2l3ni8",
+    "date": "2024-06-20",
+    "duration": "00:46:14"
+   },
+   {
+    "title": "#5 – Yann LeCun: AI Dynamics and Regulation",
+    "url": "https://podcasters.spotify.com/pod/show/scalingtheory/episodes/5--Yann-LeCun-AI-Dynamics-and-Regulation-e2jvqvl",
+    "date": "2024-05-27",
+    "duration": "00:50:33"
+   },
+   {
+    "title": "#4 – Doyne Farmer: Chaos Theory & Complexity Economics",
+    "url": "https://podcasters.spotify.com/pod/show/scalingtheory/episodes/4--Doyne-Farmer-Chaos-Theory--Complexity-Economics-e2j9eo2",
+    "date": "2024-05-06",
+    "duration": "00:46:07"
+   },
+   {
+    "title": "#3 – Thomas Wolf: Open-Source AI Scaling Laws",
+    "url": "https://podcasters.spotify.com/pod/show/scalingtheory/episodes/3--Thomas-Wolf-Open-Source-AI-Scaling-Laws-e2ici54",
+    "date": "2024-04-15",
+    "duration": "00:42:49"
+   },
+   {
+    "title": "#2 – Geoffrey West: The Scaling Laws Behind Living Organisms, Cities, Businesses, and Technologies",
+    "url": "https://podcasters.spotify.com/pod/show/scalingtheory/episodes/2--Geoffrey-West-The-Scaling-Laws-Behind-Living-Organisms--Cities--Businesses--and-Technologies-e2hhdbb",
+    "date": "2024-03-25",
+    "duration": "00:54:33"
+   },
+   {
+    "title": "Why “Scaling Theory”",
+    "url": "https://podcasters.spotify.com/pod/show/scalingtheory/episodes/Why-Scaling-Theory-e2h5gji",
+    "date": "2024-03-16",
+    "duration": "00:07:28"
+   }
+  ]
+ },
+ "sca": {
+  "title": "Stanford Computational Antitrust",
+  "url": "https://rss.com/podcasts/computationalantitrust",
+  "episodes": [
+   {
+    "title": "Episode 41: What 30 Antitrust Agencies Actually Do With AI",
+    "url": "https://podcasters.spotify.com/pod/show/stanford-computational-antitrust/episodes/Episode-41-What-30-Antitrust-Agencies-Actually-Do-With-AI-e3p551c",
+    "date": "2026-09-21",
+    "duration": "01:27:17"
+   },
+   {
+    "title": "Episode 40: Colluding Without Colluding, How AI Agents Learn to Fix Prices on Their Own",
+    "url": "https://podcasters.spotify.com/pod/show/stanford-computational-antitrust/episodes/Episode-40-Colluding-Without-Colluding--How-AI-Agents-Learn-to-Fix-Prices-on-Their-Own-e3ls451",
+    "date": "2026-07-10",
+    "duration": "00:37:02"
+   },
+   {
+    "title": "Episode 39: Gustavo Augusto Freitas de Lima on Computational Antitrust in Brazil",
+    "url": "https://podcasters.spotify.com/pod/show/stanford-computational-antitrust/episodes/Episode-39-Gustavo-Augusto-Freitas-de-Lima-on-Computational-Antitrust-in-Brazil-e3gej1j",
+    "date": "2026-03-16",
+    "duration": "00:49:09"
+   },
+   {
+    "title": "Episode 38: Alvin Koh on Computational Antitrust in Singapore",
+    "url": "https://podcasters.spotify.com/pod/show/stanford-computational-antitrust/episodes/Episode-38-Alvin-Koh-on-Computational-Antitrust-in-Singapore-e3dv9ck",
+    "date": "2026-01-21",
+    "duration": "00:38:29"
+   },
+   {
+    "title": "Episode 37: Nuno Cunha Rodrigues on Computational Antitrust in Portugal",
+    "url": "https://podcasters.spotify.com/pod/show/stanford-computational-antitrust/episodes/Episode-37-Nuno-Cunha-Rodrigues-on-Computational-Antitrust-in-Portugal-e3cbhq4",
+    "date": "2025-12-18",
+    "duration": "00:42:56"
+   },
+   {
+    "title": "Episode 36: Nancy Scola on Computational Antitrust and Antitrust Journalism",
+    "url": "https://podcasters.spotify.com/pod/show/stanford-computational-antitrust/episodes/Episode-36-Nancy-Scola-on-Computational-Antitrust-and-Antitrust-Journalism-e38mog0",
+    "date": "2025-09-25",
+    "duration": "00:49:50"
+   },
+   {
+    "title": "Episode 35: Kamil Nejezchleb on Computational Antitrust in Czechia",
+    "url": "https://podcasters.spotify.com/pod/show/stanford-computational-antitrust/episodes/Episode-35-Kamil-Nejezchleb-on-Computational-Antitrust-in-Czechia-e32806j",
+    "date": "2025-05-13",
+    "duration": "00:39:50"
+   },
+   {
+    "title": "Episode 34: Andy Chen on Computational Antitrust in Taiwan",
+    "url": "https://podcasters.spotify.com/pod/show/stanford-computational-antitrust/episodes/Episode-34-Andy-Chen-on-Computational-Antitrust-in-Taiwan-e31rmr6",
+    "date": "2025-04-24",
+    "duration": "00:38:25"
+   },
+   {
+    "title": "Episode 33: Natalie Harsdorf on Computational Antitrust in Austria",
+    "url": "https://podcasters.spotify.com/pod/show/stanford-computational-antitrust/episodes/Episode-33-Natalie-Harsdorf-on-Computational-Antitrust-in-Austria-e30e774",
+    "date": "2025-03-27",
+    "duration": "00:38:10"
+   },
+   {
+    "title": "Episode 32: Cary Coglianese on the Use of AI in Public Enforcement",
+    "url": "https://podcasters.spotify.com/pod/show/stanford-computational-antitrust/episodes/Episode-32-Cary-Coglianese-on-the-Use-of-AI-in-Public-Enforcement-e300u9q",
+    "date": "2025-03-12",
+    "duration": "00:33:57"
+   },
+   {
+    "title": "Episode 31: Martijn Snoep on Computational Antitrust in the Netherlands",
+    "url": "https://podcasters.spotify.com/pod/show/stanford-computational-antitrust/episodes/Episode-31-Martijn-Snoep-on-Computational-Antitrust-in-the-Netherlands-e2ui8fi",
+    "date": "2025-02-10",
+    "duration": "00:43:48"
+   },
+   {
+    "title": "Episode 30: Mahmoud Momtaz on Computational Antitrust in Egypt",
+    "url": "https://podcasters.spotify.com/pod/show/stanford-computational-antitrust/episodes/Episode-30-Mahmoud-Momtaz-on-Computational-Antitrust-in-Egypt-e2u43tm",
+    "date": "2025-01-29",
+    "duration": "00:36:45"
+   },
+   {
+    "title": "Episode 29: Machine Learning for Competition Lawyers (Philip Hanspach)",
+    "url": "https://podcasters.spotify.com/pod/show/stanford-computational-antitrust/episodes/Episode-29-Machine-Learning-for-Competition-Lawyers-Philip-Hanspach-e2qg4p6",
+    "date": "2024-11-07",
+    "duration": "00:41:37"
+   },
+   {
+    "title": "Episode 28: Using AI to Clarify Antitrust Concepts (Mariateresa Maggiolino)",
+    "url": "https://podcasters.spotify.com/pod/show/stanford-computational-antitrust/episodes/Episode-28-Using-AI-to-Clarify-Antitrust-Concepts-Mariateresa-Maggiolino-e2prq29",
+    "date": "2024-10-25",
+    "duration": "00:30:55"
+   },
+   {
+    "title": "Episode 27: Angela Zhang on Chinese (Computational) Antitrust",
+    "url": "https://podcasters.spotify.com/pod/show/stanford-computational-antitrust/episodes/Episode-27-Angela-Zhang-on-Chinese-Computational-Antitrust-e2pneal",
+    "date": "2024-10-16",
+    "duration": "00:36:03"
+   },
+   {
+    "title": "Episode 26: Defining Relevant Markets with NLP (Wohak)",
+    "url": "https://podcasters.spotify.com/pod/show/stanford-computational-antitrust/episodes/Episode-26-Defining-Relevant-Markets-with-NLP-Wohak-e2m3irt",
+    "date": "2024-07-18",
+    "duration": "00:36:40"
+   },
+   {
+    "title": "Episode 25: Erik Brynjolfsson on Developing New Measures of Market and Tech Dynamism",
+    "url": "https://podcasters.spotify.com/pod/show/stanford-computational-antitrust/episodes/Episode-25-Erik-Brynjolfsson-on-Developing-New-Measures-of-Market-and-Tech-Dynamism-e2jno8r",
+    "date": "2024-05-16",
+    "duration": "00:45:43"
+   },
+   {
+    "title": "Episode 24: Cani Fernández on Computational Antitrust in Spain",
+    "url": "https://podcasters.spotify.com/pod/show/stanford-computational-antitrust/episodes/Episode-24-Cani-Fernndez-on-Computational-Antitrust-in-Spain-e2i10n6",
+    "date": "2024-04-09",
+    "duration": "00:41:10"
+   },
+   {
+    "title": "Episode 23: Eleanor Fox on Global Computational Antitrust",
+    "url": "https://podcasters.spotify.com/pod/show/stanford-computational-antitrust/episodes/Episode-23-Eleanor-Fox-on-Global-Computational-Antitrust-e2hm29v",
+    "date": "2024-03-28",
+    "duration": "00:37:35"
+   },
+   {
+    "title": "Episode 22: Bill Kovacic on How To Design an Antitrust Agency 3.0",
+    "url": "https://podcasters.spotify.com/pod/show/stanford-computational-antitrust/episodes/Episode-22-Bill-Kovacic-on-How-To-Design-an-Antitrust-Agency-3-0-e2f4cbc",
+    "date": "2024-01-30",
+    "duration": "00:42:44"
+   },
+   {
+    "title": "Episode 21: Using Machine Learning to Detect Tacit Collusion (Brown et al.)",
+    "url": "https://podcasters.spotify.com/pod/show/stanford-computational-antitrust/episodes/Episode-21-Using-Machine-Learning-to-Detect-Tacit-Collusion-Brown-et-al-e2bf45s",
+    "date": "2024-01-29",
+    "duration": "00:27:51"
+   },
+   {
+    "title": "Episode 20: European Protectionism in Antitrust (Bosch & Bostoen)",
+    "url": "https://podcasters.spotify.com/pod/show/stanford-computational-antitrust/episodes/Episode-20-European-Protectionism-in-Antitrust-Bosch--Bostoen-e28n4j3",
+    "date": "2023-08-30",
+    "duration": "00:36:48"
+   },
+   {
+    "title": "Episode 19: Computational Antitrust Within Antitrust Agencies (Schrepel & Groza)",
+    "url": "https://podcasters.spotify.com/pod/show/stanford-computational-antitrust/episodes/Episode-19-Computational-Antitrust-Within-Antitrust-Agencies-Schrepel--Groza-e26hu5o",
+    "date": "2023-07-05",
+    "duration": "00:31:06"
+   },
+   {
+    "title": "Episode 18: Automating Competition Law Enforcement (Hofmann & Lorenzoni)",
+    "url": "https://podcasters.spotify.com/pod/show/stanford-computational-antitrust/episodes/Episode-18-Automating-Competition-Law-Enforcement-Hofmann--Lorenzoni-e23l490",
+    "date": "2023-05-08",
+    "duration": "00:40:07"
+   },
+   {
+    "title": "Episode 17: Antitrust APIs and Antitrust Limits (Thibault Schrepel)",
+    "url": "https://podcasters.spotify.com/pod/show/stanford-computational-antitrust/episodes/Episode-17-Antitrust-APIs-and-Antitrust-Limits-Thibault-Schrepel-e1vsthv",
+    "date": "2023-03-06",
+    "duration": "00:30:37"
+   },
+   {
+    "title": "Episode 16: Deploying Network Analysis in Antitrust Law (French Comp. Agency)",
+    "url": "https://podcasters.spotify.com/pod/show/stanford-computational-antitrust/episodes/Episode-16-Deploying-Network-Analysis-in-Antitrust-Law-French-Comp--Agency-e1tskf7",
+    "date": "2023-01-30",
+    "duration": "00:31:49"
+   },
+   {
+    "title": "Episode 15: Measuring Economic Analysis in Antitrust Law (Siying Cao)",
+    "url": "https://podcasters.spotify.com/pod/show/stanford-computational-antitrust/episodes/Episode-15-Measuring-Economic-Analysis-in-Antitrust-Law-Siying-Cao-e1ql7du",
+    "date": "2022-11-14",
+    "duration": "00:47:18"
+   },
+   {
+    "title": "Episode 14: Cartel Screening and Machine Learning (Harrington & Imhof)",
+    "url": "https://podcasters.spotify.com/pod/show/stanford-computational-antitrust/episodes/Episode-14-Cartel-Screening-and-Machine-Learning-Harrington--Imhof-e1o2u4g",
+    "date": "2022-09-20",
+    "duration": "00:42:00"
+   },
+   {
+    "title": "Episode 13: Complexity Science, Blockchain, and Computational Antitrust (John McCaskill)",
+    "url": "https://podcasters.spotify.com/pod/show/stanford-computational-antitrust/episodes/Episode-13-Complexity-Science--Blockchain--and-Computational-Antitrust-John-McCaskill-e1o2mc9",
+    "date": "2022-08-15",
+    "duration": "00:35:39"
+   },
+   {
+    "title": "Episode 12: The Adoption of Computational Antitrust by Agencies: 2021 Report (Teodora Groza)",
+    "url": "https://podcasters.spotify.com/pod/show/stanford-computational-antitrust/episodes/Episode-12-The-Adoption-of-Computational-Antitrust-by-Agencies-2021-Report-Teodora-Groza-e1o2mcb",
+    "date": "2022-07-20",
+    "duration": "00:34:33"
+   },
+   {
+    "title": "Episode 11: Prospects and Limits of Merger Simulations as a Computational Antitrust Tool (Oliver Budzinski)",
+    "url": "https://podcasters.spotify.com/pod/show/stanford-computational-antitrust/episodes/Episode-11-Prospects-and-Limits-of-Merger-Simulations-as-a-Computational-Antitrust-Tool-Oliver-Budzinski-e1o2mco",
+    "date": "2022-05-25",
+    "duration": "00:39:38"
+   },
+   {
+    "title": "Episode 10: Discussing The Legitimacy of Digital Market Surveillance (Goanta & Spanakis)",
+    "url": "https://podcasters.spotify.com/pod/show/stanford-computational-antitrust/episodes/Episode-10-Discussing-The-Legitimacy-of-Digital-Market-Surveillance-Goanta--Spanakis-e1o2mcm",
+    "date": "2022-04-27",
+    "duration": "00:49:54"
+   },
+   {
+    "title": "Episode 9: Algorithmic Governance in Computational Antitrust (Marcela Mattiuzzo)",
+    "url": "https://podcasters.spotify.com/pod/show/stanford-computational-antitrust/episodes/Episode-9-Algorithmic-Governance-in-Computational-Antitrust-Marcela-Mattiuzzo-e1o2mce",
+    "date": "2022-03-31",
+    "duration": "00:37:30"
+   },
+   {
+    "title": "Episode 8: Antitrust by Algorithm (Cary Coglianese)",
+    "url": "https://podcasters.spotify.com/pod/show/stanford-computational-antitrust/episodes/Episode-8-Antitrust-by-Algorithm-Cary-Coglianese-e1o2mcn",
+    "date": "2022-03-24",
+    "duration": "00:33:58"
+   },
+   {
+    "title": "Episode 7: Micro-Directives and Computational Merger Review (Casey & Niblett)",
+    "url": "https://podcasters.spotify.com/pod/show/stanford-computational-antitrust/episodes/Episode-7-Micro-Directives-and-Computational-Merger-Review-Casey--Niblett-e1o2mc5",
+    "date": "2021-12-16",
+    "duration": "00:47:20"
+   },
+   {
+    "title": "Episode 6: Doctrinal Implications of Computational Antitrust (Chang, McCabe, Ren, Beckelhimer & Lee)",
+    "url": "https://podcasters.spotify.com/pod/show/stanford-computational-antitrust/episodes/Episode-6-Doctrinal-Implications-of-Computational-Antitrust-Chang--McCabe--Ren--Beckelhimer--Lee-e1o2mc2",
+    "date": "2021-10-11",
+    "duration": "00:39:52"
+   },
+   {
+    "title": "Episode 5: A Computational Analysis of the DSA and DMA (Di Porto, Grote, Volpi & Invernizzi)",
+    "url": "https://podcasters.spotify.com/pod/show/stanford-computational-antitrust/episodes/Episode-5-A-Computational-Analysis-of-the-DSA-and-DMA-Di-Porto--Grote--Volpi--Invernizzi-e1o2mgg",
+    "date": "2021-09-02",
+    "duration": "00:33:24"
+   },
+   {
+    "title": "Episode 4: Antitrust Enforcement and Big Tech (Himes, Nieh & Schnell)",
+    "url": "https://podcasters.spotify.com/pod/show/stanford-computational-antitrust/episodes/Episode-4-Antitrust-Enforcement-and-Big-Tech-Himes--Nieh--Schnell-e1o2mc0",
+    "date": "2021-06-10",
+    "duration": "00:36:13"
+   },
+   {
+    "title": "Episode 3: Time for a New Antitrust Era (Mahari, Lera & Pentland)",
+    "url": "https://podcasters.spotify.com/pod/show/stanford-computational-antitrust/episodes/Episode-3-Time-for-a-New-Antitrust-Era-Mahari--Lera--Pentland-e1o2mcf",
+    "date": "2021-05-03",
+    "duration": "00:39:26"
+   },
+   {
+    "title": "Episode 2: Can Computational Antitrust Succeed? (Daryl Lim)",
+    "url": "https://podcasters.spotify.com/pod/show/stanford-computational-antitrust/episodes/Episode-2-Can-Computational-Antitrust-Succeed--Daryl-Lim-e1o2mci",
+    "date": "2021-04-09",
+    "duration": "00:44:06"
+   },
+   {
+    "title": "Episode 1: Gleaning Insight from Antitrust Cases Using Machine Learning (Massarotto & Ittoo)",
+    "url": "https://podcasters.spotify.com/pod/show/stanford-computational-antitrust/episodes/Episode-1-Gleaning-Insight-from-Antitrust-Cases-Using-Machine-Learning-Massarotto--Ittoo-e1o2mc8",
+    "date": "2021-03-05",
+    "duration": "00:35:40"
+   },
+   {
+    "title": "Episode 0: Introducing Computational Antitrust (Thibault Schrepel)",
+    "url": "https://podcasters.spotify.com/pod/show/stanford-computational-antitrust/episodes/Episode-0-Introducing-Computational-Antitrust-Thibault-Schrepel-e1o2mbo",
+    "date": "2021-02-25",
+    "duration": "00:07:36"
+   }
+  ]
+ }
+}

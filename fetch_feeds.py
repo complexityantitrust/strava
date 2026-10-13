@@ -2,12 +2,17 @@
 
 newsletter.json  the posts of The Competition System (Substack)
 podcasts.json    the episodes of Scaling Theory and of Stanford Computational Antitrust
+nlr.json         Thibault Schrepel's own articles in the Network Law Review (the journal also publishes other
+                 authors: an article counts as his when its citation line names him), without the monthly
+                 reading suggestions
 
 Substack does not let a web page read its posts from another site, so this script copies them into
 this repository, next to strava.json. The website reads both files from raw.githubusercontent.com.
 Standard library only. A source that cannot be reached leaves its file as it was."""
 import json
+import re
 import sys
+from html import unescape
 import urllib.request
 import xml.etree.ElementTree as ET
 from email.utils import parsedate_to_datetime
@@ -103,6 +108,61 @@ def show(feed):
     return {'title': text(ch, 'title'), 'url': text(ch, 'link'), 'episodes': eps}
 
 
+NLR_API = 'https://www.networklawreview.org/wp-json/wp/v2/posts'
+NLR_SKIP = ('reading suggestions', 'links of', 'links -', 'liens ')
+
+
+def plain(html_text):
+    t = re.sub(r'<[^>]+>', ' ', html_text or '')
+    return re.sub(r'\s+', ' ', unescape(t)).strip()
+
+
+def nlr_page(page, per_page=100):
+    url = f'{NLR_API}?per_page={per_page}&page={page}&_fields=id,date,link,title,content'
+    return json.loads(get(url).decode('utf-8'))
+
+
+def is_his(text):
+    """The authors of the citation line, before the first comma, include him."""
+    for m in re.finditer(r'Citation\s*:', text):
+        if 'Schrepel' in text[m.end():m.end() + 160].split(',')[0]:
+            return True
+    return False
+
+
+def nlr(old):
+    """New posts are read from the latest page; the whole archive only when the file does not exist yet."""
+    known = {a['id']: a for a in old.get('articles', [])}
+    pages = range(1, 30) if not known else [1]
+    for page in pages:
+        batch = None
+        for attempt in range(3):
+            try:
+                batch = nlr_page(page)
+                break
+            except Exception as err:
+                last = err
+        if batch is None:
+            raise RuntimeError(f'page {page} could not be read: {last}')
+        if not batch:
+            break
+        for p in batch:
+            title = re.sub(r'^Thibault Schrepel\s*:\s*', '', plain(p['title']['rendered'])).strip()
+            if title.startswith('\u201c') and title.endswith('\u201d'):
+                title = title[1:-1]
+            if title.lower().startswith(NLR_SKIP):
+                continue
+            body = plain(p['content']['rendered'])
+            if not is_his(body):
+                continue
+            known[p['id']] = {'id': p['id'], 'title': title, 'url': p['link'], 'date': p['date'][:10],
+                              'abstract': body[:600]}
+    arts = sorted(known.values(), key=lambda a: a['date'], reverse=True)
+    if not arts:
+        raise RuntimeError('no article found')
+    return {'title': 'Network Law Review', 'url': 'https://www.networklawreview.org/', 'articles': arts}
+
+
 def load(name):
     path = HERE / name
     try:
@@ -131,6 +191,12 @@ def main():
             print(key, 'left as it was:', err, file=sys.stderr)
     if pods:
         save('podcasts.json', pods)
+    try:
+        arts = nlr(load('nlr.json'))
+        save('nlr.json', arts)
+        print('nlr:', len(arts['articles']), 'articles')
+    except Exception as err:
+        print('nlr left as it was:', err, file=sys.stderr)
 
 
 if __name__ == '__main__':

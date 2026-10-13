@@ -73,6 +73,13 @@
    "abstract": "This short contribution seeks to propose the implementation of a “Proof of Vigilance” to meet the challenges of antitrust constitutional moment. Hypothesis This short paper is based on a simple hypothesis: the face of antitrust is changing to an extent that will have a lasting impact on the future of the field. Academics, policymakers, enforcers, and practitioners are debating the extent to which antitrust should address and protect sustainability, industrial sovereignty, privacy, labor rights, anti-racism, democracy, media plurality, small business, LGBTQ+ rights, etc. New “constitutional” ru"
   },
   {
+   "id": 13075,
+   "title": "A Conversation with Vernon Smith",
+   "url": "https://www.networklawreview.org/vernon-smith-conversation/",
+   "date": "2023-03-03",
+   "abstract": "The following transcript has been lightly edited. Thibault Schrepel Welcome, everyone. I am delighted to be joined today by Vernon Smith, who is a Professor appointed to the School of Business and Economics, and the School of Law at Chapman University. Vernon was awarded the 2002 Nobel Prize in Economic Sciences for his work in experimental economics. Vernon has written nearly 400 articles and books on a wide range of topics from 1957 to the present. I have prepared some questions in the hope of giving an overview of his work and also showing the relevance of Vernon’s work to many of the most "
+  },
+  {
    "id": 13043,
    "title": "Competition Is One Prompt Away",
    "url": "https://www.networklawreview.org/bing-chatgpt/",
@@ -101,6 +108,13 @@
    "abstract": "The subject of killer acquisitions is capturing the ever-increasing attention of antitrust scholars and agencies. Several reasons explain this trend. One, tech giants are generating gigantic profits that allow them to buy startups without feeling the burn. Two, leaked emails show that big tech CEOs and top executives actively seek to acquire startups early, in order to avoid competing with them. And three, the acquisition of startups often falls below merger control thresholds—as startups may have little to no turnover—which makes the process easy. But how frequent are killer acquisitions in p"
   },
   {
+   "id": 11498,
+   "title": "A proposal to improve the European AI Act",
+   "url": "https://www.networklawreview.org/european-ai-act/",
+   "date": "2022-05-30",
+   "abstract": "*** Europe is getting ready to regulate artificial intelligence. The European Commission presented its proposal for regulation in April 2021 and the European Parliament published a first interim report in April 2022. The discussions are ongoing, and the stakes are enormous. There is no doubt that Europe will be the first continent to regulate AI. But we still need to find an approach that responds to the problems created by this technology while preserving innovation in Europe. In this video, I want first to explain the logic of the AI Act, and second, explore how to improve it. The logic As i"
+  },
+  {
    "id": 8109,
    "title": "“How should antitrust agencies approach AI?” (an article written by a very special guest)",
    "url": "https://www.networklawreview.org/antitrust-ai/",
@@ -122,6 +136,13 @@
    "abstract": "The Digital Markets Act (“DMA”) is a complex piece of regulation. It includes some great ideas (as tackling predatory innovation ) while being surprisingly conservative (defined as “​the wish to resist great or sudden change” by the Oxford Dictionary). Chapter III intends to “set out the practices of gatekeepers that limit contestability and that are unfair” (p. 13), but one may question whether several obligations it contains won’t, in fact, freeze the market and help existing dominant positions. More specifically, the DMA will prevent gatekeepers from leveraging their (market) power in sever"
   },
   {
+   "id": 7494,
+   "title": "A list of open-access resources to learn computer science",
+   "url": "https://www.networklawreview.org/computer-science-resources/",
+   "date": "2021-05-13",
+   "abstract": "With each passing day, our societies become a little more digital. In this context, I decided to list free access resources to learn the fundamentals of computer science (basic programming, artificial intelligence, blockchain, cryptography…). These resources do not require any prior technical knowledge; they are all accessible, fun, and academic. I classified them per field of expertise and level. I hope it will prove helpful. Enjoy the (road) trip! Cheers, Thibault . {ps: it goes without saying that I did not receive any sponsorship for creating this list. Also, feel free to drop me a line on"
+  },
+  {
    "id": 7313,
    "title": "Why “future proof” regulation is a bad idea",
    "url": "https://www.networklawreview.org/future-proof-regulation/",
@@ -136,11 +157,25 @@
    "abstract": "Control equals liability. Anyone who controls an area, product, or service—whether physical or digital—is responsible for what happens there (or with it). There are some exceptions to this rule, but the principle remains. For instance, the manager of a bar is liable if a customer trips over a case of wine. Similarly, the manager of a website is responsible if all users’ passwords are hacked because he stored them in a Word document. In response, many are trying to escape liability by eliminating all forms of control. But what does it mean? How can one not be in control? Do technical and regula"
   },
   {
+   "id": 7042,
+   "title": "Competing with new combinations: the case of DALL·E",
+   "url": "https://www.networklawreview.org/the-blue-pumpkin-competition/",
+   "date": "2021-01-28",
+   "abstract": "Introducing DALL·E In early January 2021, OpenAI introduced DALL·E , a trained neural network “ that creates images from text captions for a wide range of concepts expressible in natural language .” DALL·E is a real technological breakthrough, “ a 12-billion parameter version of GPT-3 trained to generate images from text descriptions, using a dataset of text-image pairs. […] It has a diverse set of capabilities, including creating anthropomorphized versions of animals and objects, combining unrelated concepts in plausible ways, rendering text, and applying transformations to existing images .”"
+  },
+  {
    "id": 6110,
    "title": "Google, Facebook, and Amazon are no platforms",
    "url": "https://www.networklawreview.org/not-platforms/",
    "date": "2020-07-27",
    "abstract": "EDIT: a more academic version of this article is now available at the Oxford Journal of European Competition Law & Practice: link . *** It’s been a while since I wanted to write about Ben Thompson’s aggregation theory because it has significant implications for antitrust law. Today is the day I’m finally doing it. Yay. 1- Platforms vs. aggregators Before introducing the aggregation theory, I first need to explain why all tech giants are not platforms. According to the Historical Larousse dictionary, the term platform first appears in the French language in 1434. It is used to refer to a “ hori"
+  },
+  {
+   "id": 4439,
+   "title": "Repeal Continental Can",
+   "url": "https://www.networklawreview.org/repeal-continental-can/",
+   "date": "2019-12-20",
+   "abstract": "In a world in which competition agencies would always rely on empirical evidence, I would be teaching the following to my students: when agencies investigate potential abuses of dominant positions, they are required to show ( 1 ) a dominant position, ( 2 ) an abuse and ( 3 ) a link (causation) between the alleged dominant position and the alleged abuse. But apparently, we don’t live in such a world. According to Continental Can (1973), para 27, “ the question of the link of causality raised by the applicants which in their opinion has to question exist between the dominant position and its abu"
   }
  ]
 }

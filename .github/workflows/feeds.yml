@@ -14,10 +14,10 @@ jobs:
 
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: "3.11"
 
@@ -28,7 +28,7 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add newsletter.json podcasts.json
-          git commit -m "Update newsletter and podcast lists" || echo "No changes"
+          git add newsletter.json podcasts.json nlr.json
+          git commit -m "Update newsletter, podcast and NLR lists" || echo "No changes"
           git pull --rebase
           git push

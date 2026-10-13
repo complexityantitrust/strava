@@ -1,0 +1,34 @@
+name: Update newsletter and podcast lists
+
+on:
+  schedule:
+    - cron: "40 */3 * * *"   # every three hours, away from the Strava update on the hour
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Read the newsletter and the two podcast feeds
+        run: python fetch_feeds.py
+
+      - name: Commit updated JSON
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add newsletter.json podcasts.json
+          git commit -m "Update newsletter and podcast lists" || echo "No changes"
+          git pull --rebase
+          git push
